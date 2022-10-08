@@ -1,0 +1,13 @@
+git init
+git add trois.txt
+git commit -m "ajout de trois.txt"
+git log
+git add quatre
+git commit -m "ajout de quatre.txt"
+git log
+//supp fichier trois.txt
+git add --all
+git commit -m "suppression de trois.txt"
+git log
+git remote set-url https://github.com/aymenkerrouche/TP_CAW.git
+git push -u origin master
