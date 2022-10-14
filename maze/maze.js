@@ -25,6 +25,7 @@ $(document).ready(function() {
         //     var index = $( ".boundary" ).index( this );
         //     document.getElementsByClassName("boundary")[index].style.background = "#e07070";
         // }
+        
     });
 
     $("#start").click(function(){
